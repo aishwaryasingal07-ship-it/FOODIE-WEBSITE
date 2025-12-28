@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name": "Burger",
+        "price": "$65.78",
+        "image" : " images/chinese-burger.jpg"
+
+    },
+    {
+        "id":2,
+        "name": "Veggie Pizza",
+        "price": "$78.78",
+        "image" : " images/pizza.jpg"
+
+    },
+    {
+        "id":3,
+        "name": "Fried Momos",
+        "price": "$67.98",
+        "image" : " images/momos.jpg"
+
+    },
+    {
+        "id":4,
+        "name": "Veggie Chinese Noodles",
+        "price": "$123.78",
+        "image" : " images/noodles.jpg"
+
+    },
+    {
+        "id":5,
+        "name": "Peri Peri Fries",
+        "price": "$89.67",
+        "image" : " images/french fries.webp"
+
+    },
+    {
+        "id":6,
+        "name": "Veg Biryani",
+        "price": "$84.65",
+        "image" : " images/Biryani.webp"
+
+    },
+    {
+        "id":7,
+        "name": "Spring Roll",
+        "price": "$95.34",
+        "image" : " images/spring roll.jpeg"
+
+    },
+    {
+        "id":8,
+        "name": "Special House Shakes",
+        "price": "$160.21",
+        "image" : " images/shakes.jpg"
+
+    }
+    
+]
